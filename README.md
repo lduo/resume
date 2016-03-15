@@ -12,7 +12,4 @@ code写的也不够标准，有兴趣的可以协助修改下。
   <li>语音操作</li>
 </ul>
 
-<h4>Demo</h4>
-<a href="http://www.hashiji.com/lduo/" target="_blank">看效果</a>
-
 
