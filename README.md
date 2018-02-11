@@ -3,6 +3,6 @@
 forked from lDuo.
 
 <ul>
-  <li> A version for myselt</li>
+  <li> A version for myselt ( to be completed).</li>
 </ul>
 
