@@ -5,6 +5,6 @@ open source resume(html+js+css)
 forked from lDuo.
 
 <ul>
-<h2> A version for myselt</h2>
+  <li> A version for myselt</li>
 </ul>
 
