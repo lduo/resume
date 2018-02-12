@@ -59,7 +59,7 @@ $(function() {
     });
 
     //timeline action
-    $('.info_timeline ul li').mouseenter(function(){
+    /*$('.info_timeline ul li').mouseenter(function(){
         $(this).addClass('curr');
         $(this).parent().addClass('focus');
         var s_id = $(this).attr('id');
@@ -71,7 +71,7 @@ $(function() {
         $(this).parent().removeClass('focus');
         $('.info_content').removeClass('over')
         $('.info_content .desc').removeClass('curr');
-    }); 
+    }); */
 
     //banner
     $('.carousel').carousel({
